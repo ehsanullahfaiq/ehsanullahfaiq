@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ehsanullahfaiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m Ehsanullah Faiq
+- I am passionat about making Software Application and learn new Technologies, I participated 4-months technical training program focused on learning th fundamentals of Java programming and gain proficiency in object-oriented programming(OOP)
 <!---
 ehsanullahfaiq/ehsanullahfaiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+.
 --->
